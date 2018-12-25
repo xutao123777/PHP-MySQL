@@ -1,6 +1,9 @@
 <?php
 /**
  * 数据库备份还原类
+ * @author xutao
+ * @date 2014-03-17
+ * Class DatabaseTool
  */
 class DatabaseTool
 {
